@@ -3,6 +3,7 @@
 * IP address: 13.58.143.215
 * SSH port: 22 or 2200
 * Complete URL: ec2-13-58-143-215.us-east-2.compute.amazonaws.com
+* Passphrase: grader
 
 ### A summary:
 
